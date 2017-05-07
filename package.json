@@ -1,0 +1,13 @@
+{
+  "name": "win-chat",
+  "version": "1.0.0",
+  "description": "Simple Chat App",
+  "main":"server.js",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
